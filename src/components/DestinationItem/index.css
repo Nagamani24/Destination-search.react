@@ -1,0 +1,17 @@
+/* Write your CSS here */
+
+.list-container {
+  list-style: none;
+  margin: 2%;
+  padding-left: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 200px;
+}
+
+.image {
+  height: 200px;
+  width: 200px;
+  margin: 2%;
+}
